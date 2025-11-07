@@ -1,0 +1,14 @@
+# Evitar archivos de entorno
+__pycache__/
+*.pyc
+
+# Evitar archivos de VSCode
+.vscode/
+
+# Evitar rutas de OneDrive
+OneDrive/
+*.lnk
+
+# Evitar entornos virtuales
+venv/
+.env/
