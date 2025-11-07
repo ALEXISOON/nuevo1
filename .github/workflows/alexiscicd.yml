@@ -39,5 +39,5 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: ghcr.io/alexisoon/pruebas:1.0.0
+        tags: ghcr.io/alexisoon/nuevo1:1.0.0
 
